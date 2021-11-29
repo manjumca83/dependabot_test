@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     business (1.0.0)
-    uk_phone_numbers (0.1.0)
+    uk_phone_numbers (~> 0.1.0)
     nokogiri (1.12.3)
       mini_portile2 (~> 2.6.1)
       racc (~>1.4)
@@ -14,7 +14,6 @@ PLATFORMS
 DEPENDENCIES
   nokogiri (1.12.3)
   business (~> 1.0.0)
-  uk_phone_numbers (~> 0.1.0)
-
+ 
 BUNDLED WITH
    1.17.3
