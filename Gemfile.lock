@@ -12,6 +12,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  nokogiri (1.12.3)
   business (~> 1.0.0)
   uk_phone_numbers (~> 0.1.0)
 
